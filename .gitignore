@@ -1,0 +1,8 @@
+
+.venv
+.vscode
+
+.python-version
+
+*__pycachce__*
+*.pyc

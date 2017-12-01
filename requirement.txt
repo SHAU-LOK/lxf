@@ -1,0 +1,9 @@
+
+requests
+flask
+bs4
+lxml
+arrow
+gevent
+ipython
+pymongo
